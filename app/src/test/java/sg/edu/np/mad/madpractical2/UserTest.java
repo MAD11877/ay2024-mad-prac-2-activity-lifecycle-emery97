@@ -9,6 +9,7 @@ import static org.junit.Assert.*;
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
+//sfdsd
 public class UserTest {
     @Test
     public void addition_isCorrect() {
